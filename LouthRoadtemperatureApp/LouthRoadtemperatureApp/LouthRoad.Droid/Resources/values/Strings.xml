@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CurrentTemperature">Current temperature</string>
+    <string name="LatestTemperatures">Latest temperatures</string>
+    <string name="ApplicationName">LouthRoad Temperature Monitor</string>
+</resources>
